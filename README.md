@@ -7,7 +7,7 @@
 
 Aqui vai encontrar projetos que venho desenvolvendo durante meus estudos, além de algumas ideias que tive vontade de tirar do papel.  
 Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre explorando novas experiências!
-
+<br>
 ### 👾 Linguagens e Tecnologias
 
 <div style="display: inline_block">
@@ -17,7 +17,6 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <br>
