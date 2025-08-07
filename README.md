@@ -2,7 +2,6 @@
 
 > Estudante de Análise e Desenvolvimento de sistemas e uma boa apreciadora de livros. 📚 <br>
 🦋 Gosto de pensar como Van Gogh: "Grandes coisas não se fazem por impulso, mas por uma série de pequenas coisas reunidas." Cada linha de código e cada página lida são parte dessa construção.
-<br>
 
 ### Bem-vindo (a) ao meu cantinho de código! 💻  
 
@@ -23,13 +22,14 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 
 <br>
 
-####🚀**Demais ambientes de desenvolvimento** 
+#### 🚀**Demais ambientes de desenvolvimento** 
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thami078)
-<div>
 
+
+<div>
 ### Minhas Estatísticas 👩🏽‍💻🤖
 
 <p align="left">
@@ -37,7 +37,7 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
   &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thami078&theme=radical&layout=compact&custom_title=Technologies&langs_count=9"  alt="Linguagens" />
 </p>
-
+</div>
 
 #### ✨ Fica à vontade para explorar meus repositórios e me chamar para trocar uma ideia ou para fazer uma colab em algum projeto!
 
