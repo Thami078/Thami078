@@ -34,13 +34,11 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 <br> 
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thami078&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" style="padding-bottom: 40px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thami078&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" style="padding-bottom: 100px;" />
   &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thami078&theme=radical&layout=compact&custom_title=Technologies&langs_count=9"  alt="Linguagens" />
 </p>
 
-<br>
-<br>
 
 #### ✨ Fica à vontade para explorar meus repositórios e me chamar para trocar uma ideia ou para fazer uma colab em algum projeto!
 
