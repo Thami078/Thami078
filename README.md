@@ -29,7 +29,6 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thami078)
 
 
-<div>
 ### Minhas Estatísticas 👩🏽‍💻🤖
 
 <p align="left">
@@ -37,7 +36,7 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
   &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thami078&theme=radical&layout=compact&custom_title=Technologies&langs_count=9"  alt="Linguagens" />
 </p>
-</div>
+
 
 #### ✨ Fica à vontade para explorar meus repositórios e me chamar para trocar uma ideia ou para fazer uma colab em algum projeto!
 
