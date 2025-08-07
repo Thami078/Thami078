@@ -3,7 +3,6 @@
 > Estudante de Análise e Desenvolvimento de sistemas e uma boa apreciadora de livros. 📚 <br>
 🦋 Gosto de pensar como Van Gogh: "Grandes coisas não se fazem por impulso, mas por uma série de pequenas coisas reunidas." Cada linha de código e cada página lida são parte dessa construção.
 <br>
-
 ### Bem-vindo (a) ao meu cantinho de código! 💻  
 
 Aqui vai encontrar projetos que venho desenvolvendo durante meus estudos, além de algumas ideias que tive vontade de tirar do papel.  
