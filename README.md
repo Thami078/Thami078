@@ -24,14 +24,13 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 <br>
 
 🚀**Demais ambientes de desenvolvimento** 
-<!-- temas dísponiveis : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thami078)
 <div>
 
 ### Minhas Estatísticas 👩🏽‍💻🤖
-<br> 
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thami078&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" style="padding-bottom: 100px;" />
@@ -42,3 +41,4 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 
 #### ✨ Fica à vontade para explorar meus repositórios e me chamar para trocar uma ideia ou para fazer uma colab em algum projeto!
 
+<!-- temas dísponiveis : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
