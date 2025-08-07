@@ -31,21 +31,13 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 <div>
 
 ### Minhas Estatísticas 👩🏽‍💻🤖
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thami078&show_icons=true&theme=radical&include_all_commits=true" 
-  />
-<br>
 <br> 
-<img
-      alt="GitHub Stats" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thami078&theme=radical&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thami078&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" style="padding-bottom: 10px;" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thami078&theme=radical&layout=compact&custom_title=Technologies&langs_count=9"  alt="Linguagens" />
+</p>
 
 <br>
 <br>
