@@ -3,6 +3,7 @@
 > Estudante de Análise e Desenvolvimento de sistemas e uma boa apreciadora de livros. 📚 <br>
 🦋 Gosto de pensar como Van Gogh: "Grandes coisas não se fazem por impulso, mas por uma série de pequenas coisas reunidas." Cada linha de código e cada página lida são parte dessa construção.
 <br>
+
 ### Bem-vindo (a) ao meu cantinho de código! 💻  
 
 Aqui vai encontrar projetos que venho desenvolvendo durante meus estudos, além de algumas ideias que tive vontade de tirar do papel.  
@@ -22,7 +23,7 @@ Atualmente, venho me aprofundando em **desenvolvimento web**, mas estou sempre e
 
 <br>
 
-🚀**Demais ambientes de desenvolvimento** 
+####🚀**Demais ambientes de desenvolvimento** 
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
